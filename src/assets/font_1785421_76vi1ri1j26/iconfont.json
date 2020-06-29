@@ -1,0 +1,16 @@
+{
+  "id": "1785421",
+  "name": "shang'jia'hou'tai",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9512560",
+      "name": "筛选",
+      "font_class": "filter",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}
